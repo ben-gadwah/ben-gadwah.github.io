@@ -2,13 +2,13 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Contact</title>
+    <title>Provider Directory</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/navbar-fixed-side.css" rel="stylesheet" />
     <link href="css/custom.css" rel="stylesheet">
-    <link href="css/contact-styles.css" rel="stylesheet">
+    <link href="css/provider-directory-styles.css" rel="stylesheet">
     <script src="https://use.fontawesome.com/0a01f1d7af.js"></script>
     <script src="js/respond.js"></script>
     <style>
@@ -42,14 +42,14 @@
                 <div class="nav navbar-fixed-top mobile-nav-margin top-cushion bottom-buff">
                     <div class="row">
                         <div class="col-xs-4 mobile-nav text-center"><a href="about.html"><i class="fa fa-user"></i></a></div>
-                        <div type="button" class="col-xs-4 mobile-nav text-center" data-toggle="collapse" data-target="#port-drop"><a href="#"><i class="fa fa-cutlery"></i></a></div>
-                        <div class="active col-xs-4 mobile-nav text-center"><a href="contact.html"><i class="fa fa-envelope"></i></a></div>
+                        <div type="button" class="active col-xs-4 mobile-nav text-center" data-toggle="collapse" data-target="#port-drop"><a href="#"><i class="fa fa-cutlery"></i></a></div>
+                        <div class="col-xs-4 mobile-nav text-center"><a href="contact.html"><i class="fa fa-envelope"></i></a></div>
                     </div>
                         <div class="collapse" id="port-drop">              
                         <div class="nav">
                             <div class="">
                                     <div class="portfolio-nav">
-                                        <div class="pnav-left"><a href="okcommuter.html">Mobile App</a></div>
+                                        <div class="pnav-left pnav-active"><a href="okcommuter.html">Mobile App</a></div>
                                         <div class="pnav-center"><a href="ethosolar.html">Website</a></div>
                                         <div class="pnav-right"><a href="evm.html">Branding</a></div>
                                     </div>
@@ -64,44 +64,38 @@
             <div class="col-sm-2 col-sm-push-7 right-col-custom no-pad-right top-cushion hidden-xs">
                 <ul class="nav nav-stacked navbar-fixed-side">
                     <li><a href="about.html"><i class="fa fa-user"></i> About</a></li>
-                    <li><a href="#" data-toggle="collapse" data-target="#port"><i class="fa fa-cutlery"></i> Portfolio</a></li>
+                    <li class="active"><a href="#" data-toggle="collapse" data-target="#port"><i class="fa fa-cutlery"></i> Portfolio</a></li>
                     <ul id="port" class="collapse portfolio-list">
-                        <li><a href="okcommuter.html">Mobile App</a></li>
+                        <li class="list-active active"><a href="okcommuter.html">Mobile App</a></li>
                         <li><a href="ethosolar.html">Website</a></li>
                         <li><a href="evm.html">Branding</a></li>
                     </ul>
-                    <li class="active"><a href="contact.html"><i class="fa fa-envelope"></i> Contact</a></li>
+                    <li><a href="contact.html"><i class="fa fa-envelope"></i> Contact</a></li>
                 </ul>
             </div> <!-- /span -->
 
         <!-- center -->
-    	    <div class="col-sm-7 col-sm-pull-2 mobile-push">
-                <div class=" center-content-container">
-                    <h1 class="center-words bold">Contact</h1>
-                </div>
-                <div class="break-line"></div>
-                <div class="text-center">
-                    <div class="big-contact-info">
-                       <p><i class="fa fa-envelope"></i><a href="mailto:bengadwah@gmail.com" target="_blank"> bengadwah@gmail.com</a></p>
+        <!-- desktop -->
+            <div class="col-sm-7 col-sm-pull-2 portfolio-push">
+                    <div class="hidden-xs">
+                        <div class="portfolio-nav center">
+                            <div class="pnav-left pnav-active"><a href="okcommuter.html">Mobile App</a></div>
+                            <div class="pnav-center"><a href="ethosolar.html">Website</a></div>
+                            <div class="pnav-right"><a href="evm.html">Branding</a></div>
+                        </div>
                     </div>
-                    <div class="small-contact-info">
-                    	<i class="fa fa-phone-square"></i> 774.314.0901
-                    </div>	
-                    <div class="small-contact-info">
-                    	<i class="fa fa-twitter-square"></i> <a href="https://twitter.com/bengadwah" target="_blank">@bengadwah</a>
-                    </div>
-                    <div class="small-contact-info">
-                    	<i class="fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/bengadwah
-" target="_blank">/in/bengadwah</a>
-                    </div>
-                </div>
-            <footer class="footer">Ben Gadwah &#169;2017</footer>    
+        <!-- /desktop -->   
+<!--=====================================================================================-->            
+     
+
+<!--=====================================================================================-->            
+                <footer class="footer">Ben Gadwah &#169;2017</footer>
             </div> <!-- /.span -->
         </div> <!-- /.row -->
-	</div> <!-- end container -->
+    </div> <!-- end container -->
 
 <!-- javascript -->
-	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
