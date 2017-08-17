@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"gr",
+				"grabbing"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"dar",
+				"dark-text"
+			],
+			[
+				"neu",
+				"neutral-color"
+			],
+			[
+				"font",
+				"font-weight-semi-bold"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 478.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/private/var/folders/mf/8xjvgc3s6t70v6txr2ztpzzhjs3p7d/T/com.microsoft.Outlook/Outlook Temp/preAdmission[4].json",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/app/modules/shared/linkageViewer/displayPanel/displayPanel.scss",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/uifw-modules/src/app/modules/jsonView/jsonView.scss",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/app/modules/pages/masterBrowser/masterBrowserNav/masterBrowserNav.component.js",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/app/modules/pages/masterBrowser/masterBrowserNav/masterBrowserNav.spec.js",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/uifw-modules/src/app/modules/jsonView/jsonView.html",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/app/assets/sass/_settings.scss",
+		"/Users/bgadwctr/Desktop/JavaScript Test/index.html",
+		"/Users/bgadwctr/Desktop/JavaScript Test/main.css",
+		"/Users/bgadwctr/Desktop/JavaScript Test/main.js",
+		"/Users/bgadwctr/Desktop/Sample/index.html",
+		"/Users/bgadwctr/Desktop/index.html",
+		"/Users/bgadwctr/Desktop/master-individual-fdn.json",
+		"/private/var/folders/mf/8xjvgc3s6t70v6txr2ztpzzhjs3p7d/T/com.microsoft.Outlook/Outlook Temp/master-ind-to-org[2].json",
+		"/private/var/folders/mf/8xjvgc3s6t70v6txr2ztpzzhjs3p7d/T/com.microsoft.Outlook/Outlook Temp/master-address-fdn[2].json",
+		"/private/var/folders/mf/8xjvgc3s6t70v6txr2ztpzzhjs3p7d/T/com.microsoft.Outlook/Outlook Temp/overview-individual-fdn.json",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/uifw-modules/src/app/modules/provider.common/emptyCard/emptyCard.component.module.js",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/uifw-modules/src/app/modules/provider.common/emptyCard/emptyCard.spec.js",
+		"/Users/bgadwctr/Code/intersystems/hs-uifw-provider-directory/src/uifw-modules/src/app/modules/provider.common/emptyCard/emptyCard.scss",
+		"/Users/bgadwctr/Documents/Provider Directory/Forms/MasterOrgToOrg.json",
+		"/Users/bgadwctr/Downloads/MasterLocations (2).json",
+		"/Users/bgadwctr/Desktop/MasterLocations (1).json",
+		"/Users/bgadwctr/Downloads/MasterLocations.json",
+		"/Users/bgadwctr/Desktop/MasterOrganization.json",
+		"/Users/bgadwctr/Desktop/myForm2.json",
+		"/Users/bgadwctr/Desktop/datastructure.json",
+		"/private/var/folders/mf/8xjvgc3s6t70v6txr2ztpzzhjs3p7d/T/com.microsoft.Outlook/Outlook Temp/hspd15OverviewIndividual[5].json",
+		"/private/var/folders/mf/8xjvgc3s6t70v6txr2ztpzzhjs3p7d/T/com.microsoft.Outlook/Outlook Temp/hspd15OverviewIndividual[1].json",
+		"/Users/bgadwctr/Downloads/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
+		"/Users/bgadwctr/.bashrc"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"any",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"notdraggable",
+			"json",
+			"not-dragable",
+			"linkage",
+			"not-draggable",
+			"$ctrl.linkageConfig",
+			"scss",
+			"emptycard",
+			"empty card",
+			"status",
+			"given",
+			"accepting",
+			"status",
+			"activestatus",
+			"status",
+			"assigningau",
+			"typecodedvalue",
+			"status",
+			"prefix",
+			"prefixCodedValue",
+			"prefix",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/app/modules/pages/masterBrowser/masterBrowserNav/masterBrowserNav.spec.js"
+			],
+			[
+				"masterbrowsernav.component",
+				"src/app/modules/pages/masterBrowser/masterBrowserNav/masterBrowserNav.component.js"
+			],
+			[
+				"masterbrowsernav",
+				"src/app/modules/pages/masterBrowser/masterBrowserNav/masterBrowserNav.spec.js"
+			],
+			[
+				"masterbrowsern",
+				"src/app/modules/pages/masterBrowser/masterBrowserNav/masterBrowserNav.component.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
