@@ -13,9 +13,10 @@ p {
   color: #000;
   font-family: 'Open Sans', sans-serif;
 }
-.list {
+.list li {
   color: #000;
   font-family: 'Open Sans', sans-serif;
+  font-size: 1.25em;
 }
 h2 {
   color: #fff;
@@ -108,7 +109,7 @@ h3 {
   padding-right: 0;
 }
 .top-cushion {
-  padding-top: 1.5em;
+  padding-top: 3em;
   background-color: #fed300;
 }
 .navbar {
